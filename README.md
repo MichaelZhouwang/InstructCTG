@@ -1,2 +1,6 @@
-# InstructCTG
-Code for Paper "Controlled Text Generation with Natural Language Instructions" 
+# InstructCTG: Controlled Text Generation with Natural Language Instructions
+
+
+- Will release the data generation pipeline, training script, and pre-trained models soon.
+- March 2022: Release preprint in arxiv. 
+
